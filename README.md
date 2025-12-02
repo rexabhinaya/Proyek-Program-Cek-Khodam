@@ -38,7 +38,23 @@ Panduan Instalasi:
     
 
 
-yg lainnya isi sini banh
+Panduan Menjalankan:
+Sebelum kamu mulai menjalankan program cek khodam ini, pastikan kamu sudah menyiapkan file programnya. Setelah siap, kamu bisa memilih mau menjalankannya lewat Visual Studio Code atau langsung lewat Terminal. Berikut panduannya:
+1. Menjalankan dengan Visual Studio Code
+    1. Buka aplikasi Visual Studio Code.
+    2. Buat file baru, lalu salin seluruh isi program ke dalamnya.
+    3. Simpan file tersebut dengan nama “cek_khodam.py”.
+    4. Pastikan Python sudah terpasang di laptop, lalu pilih interpreter Python melalui menu pencarian di VSC (biasanya muncul dengan nama Python 3).
+    5. Setelah itu, jalankan program. Kamu bisa melakukannya dengan menekan tombol “Run” yang biasanya ada di pojok kanan atas, atau melalui terminal bawaan VSC.
+    6. Saat program meminta nama, cukup ketik nama kamu lalu tekan Enter. Program akan menampilkan khodam dan pesan motivasinya.
+
+2. Menjalankan dengan Terminal (CMD / PowerShell / Terminal Linux)
+    1. Buka aplikasi editor teks apa pun, lalu tempelkan isi program ke dalamnya.
+    2. Simpan file tersebut dengan nama “cek_khodam.py”.
+    3. Buka terminal di perangkatmu.
+    4. Arahkan terminal ke folder tempat file program disimpan.
+    5. Jalankan file tersebut.
+    6. Begitu terminal meminta nama, masukkan nama kamu. Setelah itu, hasil khodam beserta pesannya akan muncul.
 
     
 
