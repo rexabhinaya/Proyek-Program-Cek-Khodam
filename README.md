@@ -39,6 +39,7 @@ Panduan Instalasi:
 
 
 Panduan Menjalankan:
+
 Sebelum kamu mulai menjalankan program cek khodam ini, pastikan kamu sudah menyiapkan file programnya. Setelah siap, kamu bisa memilih mau menjalankannya lewat Visual Studio Code atau langsung lewat Terminal. Berikut panduannya:
 1. Menjalankan dengan Visual Studio Code
     1. Buka aplikasi Visual Studio Code.
